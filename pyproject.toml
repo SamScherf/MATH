@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "math"
+version = "0.1.0"
+description = "Tool for solving hand written mathmatical expressions"
+authors = ["Sam <github@samscherf.com>"]
+
+[tool.poetry.dependencies]
+python = "3.9.*"
+numpy = "1.21.*"
+tensorflow = "2.9.*"
+wandb = "0.13.*"
+packaging = "20.*"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

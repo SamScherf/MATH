@@ -17,3 +17,18 @@ MATH is a tool for solving hand written mathematical expressions. This is a work
 - [ ] Operation Recognition
   - [ ] Arithmetic
   - [ ] Simple Calculus
+
+## Installation Instructions
+
+### 1. Clone the repository
+
+```
+git clone https://github.com/SamScherf/MATH.git
+cd MATH/
+```
+
+### 2. Install dependencies using Poetry
+
+```
+poetry install
+```
