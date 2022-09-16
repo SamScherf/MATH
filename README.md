@@ -1,6 +1,6 @@
-# MATH (Mathmatical Ascribing Tool for Handwriting)
+# MATH (Mathematical Ascribing Tool for Handwriting)
 
-MATH is a tool for solving hand written mathmatical expressions. This is a work in progress project and therefore not yet feature complete.
+MATH is a tool for solving hand written mathematical expressions. This is a work in progress project and therefore not yet feature complete.
 
 ## Roadmap
 - [ ] Digit Recognition
@@ -11,8 +11,8 @@ MATH is a tool for solving hand written mathmatical expressions. This is a work 
   - [ ] Complex numbers
 - [ ] Web Interface
   - [ ] Flexible outline of website
-  - [ ] API based model depoylment
-  - [ ] Javascript based model deployment
+  - [ ] API based model deployment
+  - [ ] JavaScript based model deployment
   - [ ] Public release
 - [ ] Operation Recognition
   - [ ] Arithmetic
