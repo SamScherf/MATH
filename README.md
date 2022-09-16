@@ -32,3 +32,9 @@ cd MATH/
 ```
 poetry install
 ```
+
+### Troubleshooting
+
+- NUMA node read from SysFS had negative value (-1)
+
+  - A softfix for this is available [here](https://stackoverflow.com/questions/44232898/memoryerror-in-tensorflow-and-successful-numa-node-read-from-sysfs-had-negativ)
